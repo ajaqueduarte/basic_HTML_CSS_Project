@@ -22,3 +22,5 @@ Navigate through the different sections of the website using the menu links.
 License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes.
+
+To access the webpage https://ajaqueduarte.github.io/basic_HTML_CSS_Project/
